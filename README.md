@@ -32,7 +32,7 @@ python STMoE-2_train.py --training all
 ```
 
 ## 4. test
-Test notebook are [STMoE-1](https://github.com/papercodeanonymous755/STMoE/blob/master/STMoE-1_test.ipynb) and [STMoE-2](https://github.com/papercodeanonymous755/STMoE/blob/master/STMoE-2_test.ipynb).
+Test notebooks are [STMoE-1](https://github.com/papercodeanonymous755/STMoE/blob/master/STMoE-1_test.ipynb) and [STMoE-2](https://github.com/papercodeanonymous755/STMoE/blob/master/STMoE-2_test.ipynb).
 Trained models are in `./models`.  
 You can do only test and get the following results. 
 - STMoE-1
