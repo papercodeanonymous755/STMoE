@@ -13,7 +13,7 @@ python Dynamic_MNIST.py
 `train_data.npy`, `valid_data.npy`, and `test_data.npy` will be generated in the `./data`.
 
 ## 3. training
-The trained model of experts in local optimization is `./models`.  
+Trained model parameters of experts in local optimization is `./models`.  
 Training only STGN in global optimization will be done as follows:  
 ```
 python STMoE-1_train.py --training gating
