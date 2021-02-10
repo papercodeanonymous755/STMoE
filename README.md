@@ -1,5 +1,5 @@
 # code of STMoE
-This repository contains experiments of Dynamic MNIST (Section 4.1 in main manuscript)
+This repository contains experiments of Dynamic MNIST (Section 4.1 in main manuscript).  
 Two STMoE models are shown. 
 
 ## 1. requirement  
