@@ -1,0 +1,2 @@
+model_checkpoint_path: "STMoE-2_gating-1"
+all_model_checkpoint_paths: "STMoE-2_gating-1"
